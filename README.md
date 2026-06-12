@@ -17,3 +17,8 @@ The final GIF is generated at:
 
 ```text
 saida_amor/amor_animado.gif
+
+## Run
+
+pip install numpy matplotlib pillow
+python amor.py
