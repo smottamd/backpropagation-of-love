@@ -13,16 +13,16 @@ The project generates:
 
 ## Example
 
-The final GIF is generated at:
+The final GIF is available here:
 
 ```text
-saida_amor/amor_animado.gif
+amor_animado.gif
 ```
 
-The final static image is generated at:
+The final static image is available here:
 
 ```text
-saida_amor/amor_tracados.png
+amor_tracados.png
 ```
 
 ## Run
@@ -30,13 +30,19 @@ saida_amor/amor_tracados.png
 Install the dependencies:
 
 ```bash
-pip install numpy matplotlib pillow
+pip install -r requirements.txt
 ```
 
 Run the script:
 
 ```bash
 python amor.py
+```
+
+After running the script, the generated files will be saved inside:
+
+```text
+saida_amor/
 ```
 
 ## How it works
