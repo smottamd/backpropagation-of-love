@@ -1,8 +1,4 @@
-# backpropagation-of-love
-A small Python experiment where a neural network learns to draw a heart using manual backpropagation.
-
-
-# Backpropagation do Amor ❤️
+# Backpropagation of Love ❤️
 
 A small Valentine's Day experiment where a simple neural network learns, step by step, to draw a heart.
 
@@ -15,8 +11,9 @@ The project generates:
 - a static PNG image
 - an animated GIF showing the learning process
 
-## Run
+## Example
 
-```bash
-pip install numpy matplotlib pillow
-python amor.py
+The final GIF is generated at:
+
+```text
+saida_amor/amor_animado.gif
