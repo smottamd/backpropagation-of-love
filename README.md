@@ -66,3 +66,10 @@ No deep learning framework is used.
 This is a small educational and visual experiment.
 
 The goal is not to build a production model, but to show the learning process visually: the curve starts almost random, the error decreases, the weights adjust, and the heart gradually appears.
+
+
+## Inspiration
+
+This project was inspired by a learning exercise I completed during my studies at King's College London.
+
+The implementation, visual design and Valentine's Day adaptation were developed independently as a personal experiment.
